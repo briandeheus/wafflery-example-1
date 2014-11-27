@@ -1,0 +1,11 @@
+{
+	"host": "",
+	"components": [
+		"loader",
+		"umbrella"
+	],
+	"views": [
+		"welcome"
+	],
+	"dialogs": []
+}
