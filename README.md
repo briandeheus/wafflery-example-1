@@ -1,7 +1,7 @@
 wafflery-example-1
 ==================
 
-A wafflery example app.
+A [wafflery](https://github.com/briandeheus/wafflery) example app.
 
 # Installing
 1. `npm install -g wafflery`
